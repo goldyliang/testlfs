@@ -1,2 +1,2 @@
 [lfs]
-url = "https://armdev.mo.ca.am.ericsson.se/artifactory/api/lfs/proj-gitlfs-local"
+url = "http://camolx2105.mo.ca.am.ericsson.se:8888/artifactory/api/lfs/proj-gitlfs-local"
