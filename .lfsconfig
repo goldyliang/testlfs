@@ -1,2 +1,2 @@
 [lfs]
-url = "http://camolx2105.mo.ca.am.ericsson.se:8888/artifactory/api/lfs/proj-gitlfs-local"
+url = "ssh://test@camolx2105.mo.ca.am.ericsson.se:8019/artifactory/proj-gitlfs-local"
